@@ -1,5 +1,4 @@
 # NextLevelWeek
-Curso Fullstack utilizando React
 
 Aplicação web utilizada na semana de desenvolvimento da Rocketseat.
 
